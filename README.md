@@ -24,7 +24,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ampersandor&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-six-theta-74.vercel.app/api?username=ampersandor&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ampersandor&theme=radical)
 
