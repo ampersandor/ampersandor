@@ -26,7 +26,7 @@
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats-six-theta-74.vercel.app/api?username=ampersandor&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ampersandor&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-eight-lyart.vercel.app/?user=ampersandor&theme=radical)
 
 ### 🤝 Contribution Graph
 
