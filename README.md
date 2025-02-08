@@ -1,4 +1,4 @@
-# 안녕하세요 👋 
+# Welcome to my repository 👋 
 
 [![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Better%20today%20than%20yesterday👨‍💻&width=400&height=200)](https://github.com/Akshay090/svg-banners)
 
